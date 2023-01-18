@@ -11,4 +11,4 @@
 
 ***************************************** fichier .jar ******************************************
 
-	- l'exectable en .jar se trouve dans Backend > out > artifacts > AppliWeb_jar
+	- l'exectable en .jar se trouve dans Back_AppliWeb > out > artifacts > AppliWeb_jar
