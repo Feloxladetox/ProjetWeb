@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding:0;
+    width: 100%;
+}
+
+.username{
+    margin-top: 50px;
+    margin-bottom: 0px;
+    margin-left: 30px;
+}
+
+.tableun{
+    margin-left: 10%;
+    margin-right: 20%;
+}
+
+.tabledeux{
+    margin-top: 50px;
+    margin-left: 10%;
+    margin-right: 20%;
+}
+
+.depotun{
+    margin-left: 10%;
+    margin-right: 30%;
+    margin-top: 20px;
+}
+
+.depotdeux{
+    margin-left: 10%;
+    margin-right: 30%;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.bout{
+    margin-top: 32px;
+}
+
+.footer{
+    width: 100%;
+    background-color: rgb(33, 37, 41);
+    padding-top: 30px;
+    height: 99px;
+}

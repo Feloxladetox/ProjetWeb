@@ -1,0 +1,14 @@
+************************************ Informations Générales *************************************
+
+	- Le dossier Backend contient le code source écrit en Java ainsi que le fichier .jar
+	qui permet de lancer l'application web.
+
+	- Le dossier Frontend contient le code source écrit en html, css, et javascript
+
+	- Pour obtenir des résultats cohérent lors du test, vous devez creer une base 
+	de donnée MySQL nommée "test" ayant la même structure que celle definie dans les annexes
+	du rapport.
+
+***************************************** fichier .jar ******************************************
+
+	- l'exectable en .jar se trouve dans Backend > out > artifacts > AppliWeb_jar
